@@ -23,7 +23,7 @@ Introduction
 Tortoise ORM is an easy-to-use ``asyncio`` ORM *(Object Relational Mapper)* inspired by Django.
 
 Tortoise ORM was build with relations in mind and admiration for the excellent and popular Django ORM.
-It's engraved in it's design that you are working not with just tables, you work with relational data.
+It's engraved in its design that you are working not with just tables, you work with relational data.
 
 You can find docs at `ReadTheDocs <http://tortoise-orm.readthedocs.io/en/latest/>`_
 
